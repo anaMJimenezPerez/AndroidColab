@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TarjetaPresentacion</string>
+    <string name="name">Ana Jimenez</string>
+    <string name="job">Student</string>
+    <string name="phoneNumber">+34 000 000 000</string>
+    <string name="webPage">\@AndroidStudio</string>
+    <string name="email">alguien@example</string>
+</resources>
